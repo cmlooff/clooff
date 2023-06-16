@@ -4,15 +4,6 @@ Just a guy looking to make my developer workflow more awesome, build performant 
 
 Fun Facts:
 1. I'm an avid learner - my realm of CS interests include:
-  - Rust
-  - Perl
-  - Vim/Nvim
-  - Electronics
+  * Rust, Perl, Vim/Nvim, Electronics
 2. Personal Interests:
-  - Powerlifting
-  - Snowboarding
-  - 3D Printing
-  - Painting
-  - Music (Guitar/Piano/Tuba/Wind)
-  - White Papers
-  - Regulations
+  - Powerlifting, Snowboarding, 3D Printing, Painting, Music (Guitar/Piano/Tuba/Wind), White Papers, Regulations
